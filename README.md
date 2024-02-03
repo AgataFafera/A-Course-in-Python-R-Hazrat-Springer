@@ -18,7 +18,7 @@ $\sqrt{\sqrt[3]{64}(2^2+(1/2)^2)-1}=4$
 ### 1.9 Using Python, demonstrate that 
 $\frac{1+\sin(x)-\cos(x)}{1+\sin(x)+\cos(x)}=\tan(x/2)$
 
-### 2.1 Define a list of the form
+### 2.1 Define a list of the form:
 z=[[x1, y1], [x2, y2], [x3, y3], [x4, y4] , [x5, y5]]
 
 Use Python’s list methods to construct the following lists from z:
