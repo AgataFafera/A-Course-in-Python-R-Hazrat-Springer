@@ -19,5 +19,5 @@ $\sqrt{\sqrt[3]{64}(2^2+(1/2)^2)-1}=4$
 $\frac{1+\sin(x)-\cos(x)}{1+\sin(x)+\cos(x)}=\tan(x/2)$
 
 ### 3.1 Find the number of positive integers: 
-$0 < 𝑛 < 20000$ such that $1997$ divides $𝑛2 + (𝑛 + 1)2$. Try the same code for $2009$ and $2022$
+$0 < 𝑛 < 20000$ such that $1997$ divides $𝑛^2 + (𝑛 + 1)^2$. Try the same code for $2009$ and $2022$
 
