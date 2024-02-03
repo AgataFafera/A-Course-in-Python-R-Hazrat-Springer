@@ -10,4 +10,4 @@ $(\frac{1}{2}+ \frac{1}{3}+ \frac{1}{5}+ \frac{1}{7} )+(\frac{5}{2}+ \frac{5}{3}
 $(a+\frac{1}{a})^2 +(b+\frac{1}{b}^2)\geq\frac{25}{2}$
 
 ### 1.4 Use Python to show that 
-$\tan\frac{3\pi}{11}$
+$\tan\frac{3\pi}{11}+4\sin\frac{2\pi}{11}=\sqrt{11}$
