@@ -36,5 +36,8 @@ Use Python’s list methods to construct the following lists from z:
 • [[x1, y1], [x3, y3], [x5, y5]]
 
 ### 3.1 Find the number of positive integers: 
-$0 < 𝑛 < 20000$ such that $1997$ divides $𝑛^2 + (𝑛 + 1)^2$. Try the same code for $2009$ and $2022$
+$0 < 𝑛 < 20000$ such that 1997 divides $𝑛^2 + (𝑛 + 1)^2$. Try the same code for 2009 and 2022.
+
+### 3.3 For integers $2 ≤ 𝑛 ≤ 200$, find all $𝑛$ such that $𝑛$ divides $(𝑛 − 1)! + 1$. 
+Show that there are 46 such $n$.
 
