@@ -18,5 +18,6 @@ $\sqrt{\sqrt[3]{64}(2^2+(1/2)^2)-1}=4$
 ### 1.9 Using Python, demonstrate that 
 $\frac{1+\sin(x)-\cos(x)}{1+\sin(x)+\cos(x)}=\tan(x/2)$
 
-### 2.2 Define the following matrix in form of a list.
-$\{pmatrix}1 & 2 & 3\\a & b & c{pmatrix}$
+### 3.1 Find the number of positive integers: 
+$0 < 𝑛 < 20000$ such that $1997$ divides $𝑛2 + (𝑛 + 1)2$. Try the same code for $2009$ and $2022$
+
