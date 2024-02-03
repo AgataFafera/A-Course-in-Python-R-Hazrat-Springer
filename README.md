@@ -4,4 +4,4 @@
 $\sqrt{1+\frac{1}{1^2}+\frac{1}{2^2}} + \sqrt{1+\frac{1}{2^2}+\frac{1}{3^2}+\sqrt{1+\frac{1}{3^2}+\frac{1}{4^2}}}$
 
 ### 1.2 Compute:
-$(\frac{1}{2}+ \frac{1}{3}+ \frac{1}{5}+ \frac{1}{7} )+(\frac{5}{2}+ \frac{5}{3}+ \frac{5}{5}+ \frac{5}{7} )$
+$(\frac{1}{2}+ \frac{1}{3}+ \frac{1}{5}+ \frac{1}{7} )+(\frac{5}{2}+ \frac{5}{3}+ \frac{5}{5}+ \frac{5}{7})+(\frac{11}{2}+ \frac{11}{3}+ \frac{11}{5}+ \frac{11}{7})$
