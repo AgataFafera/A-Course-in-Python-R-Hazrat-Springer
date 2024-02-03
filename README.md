@@ -20,12 +20,19 @@ $\frac{1+\sin(x)-\cos(x)}{1+\sin(x)+\cos(x)}=\tan(x/2)$
 
 ### 2.1 Define a list of the form
 z=[[x1, y1], [x2, y2], [x3, y3], [x4, y4] , [x5, y5]]
+
 Use Python’s list methods to construct the following lists from z:
+
 • [x1, x2, x3, x4, x5]
+
 • [y1, y2, y3, y4, y5]
+
 • [[y1, x1], [y2, x2], [y3, x3], [y4, x4] , [y5, x5]]
+
 • [x1, y1, x2, y2, x3, y3, x4, y4, x5, y5]
+
 • [[x4, y4], [x2, y2]]
+
 • [[x1, y1], [x3, y3], [x5, y5]]
 
 ### 3.1 Find the number of positive integers: 
