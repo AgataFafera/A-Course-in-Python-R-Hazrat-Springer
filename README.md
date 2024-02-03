@@ -16,4 +16,4 @@ $\tan\frac{3\pi}{11}+4\sin\frac{2\pi}{11}=\sqrt{11}$
 $\sqrt{\sqrt[3]{64}(2^2+(1/2)^2)-1}=4$
 
 ### 1.9 Using Python, demonstrate that 
-$\frac{1+\sin(x)-\cos(x)}{1+\sin+\cos(x)}=\tan(x/2)$
+$\frac{1+\sin(x)-\cos(x)}{1+\sin(x)+\cos(x)}=\tan(x/2)$
