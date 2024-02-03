@@ -1,2 +1,3 @@
 # A-Course-in-Python-R-Hazrat-Springer
-# Exercises:
+## Exercises:
+### 1.1 Compute:
