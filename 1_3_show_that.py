@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[10]:
-
-
 a = 0.3
 b = 0.7
 print(a+b==1)
