@@ -42,7 +42,7 @@ $0 < 𝑛 < 20000$ such that 1997 divides $𝑛^2 + (𝑛 + 1)^2$. Try the same 
 $2 ≤ 𝑛 ≤ 200$, find all $𝑛$ such that $𝑛$ divides $(𝑛 − 1)! + 1$. Show that there are 46 such $n$.
 
 ### 3.4 Show that:
-there is only one positive integer $𝑛$ smaller than 100 such that $𝑛! + (𝑛 + 1)!$ is the square of an integer.
+There is only one positive integer $𝑛$ smaller than 100 such that $𝑛! + (𝑛 + 1)!$ is the square of an integer.
 
 ### 3.9 Consider the number 485. 
 Observe that 485 + 584 = 1069 is a prime number. Find all numbers $𝑛$ between 1 and 1000 such that $𝑛$ plus its reverse is prime.
