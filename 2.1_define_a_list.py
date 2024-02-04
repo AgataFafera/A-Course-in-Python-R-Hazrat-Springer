@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[13]:
-
-
 # The target list to create from given lists in all tasks below: 
 # z = [['x1', 'y1'], ['x2', 'y2'], ['x3', 'y3'], ['x4', 'y4'] , ['x5', 'y5']]
 
@@ -37,10 +34,4 @@ p = [['x1', 'y1'], ['x3', 'y3'], ['x5', 'y5']]
 new_op = []
 new_op.append(p[0]); new_op.append(o[1]); new_op.append(p[1]); new_op.append(o[0]); new_op.append(p[2])
 print(new_op)
-
-
-# In[ ]:
-
-
-
 
