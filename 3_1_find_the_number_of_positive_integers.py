@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 integers = []
 
 for n in range(1, 20001): 
@@ -27,10 +24,4 @@ for n in range(1, 20001):
         integers3.append(n)
         
 print(len(integers3))
-
-
-# In[ ]:
-
-
-
 
