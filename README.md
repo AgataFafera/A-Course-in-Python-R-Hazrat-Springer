@@ -50,3 +50,7 @@ Observe that 485 + 584 = 1069 is a prime number. Find all numbers $𝑛$ between
 ### 3.15 Compute:
 $\sqrt{1+\frac{1}{1^2}+\frac{1}{2^2}}+\sqrt{1+\frac{1}{2^2}+\frac{1}{3^2}}+...+\sqrt{1+\frac{1}{2022^2}+\frac{1}{2023^2}}$
 
+### 4.2 Write a function
+Write a function which returns an answer of True if the $𝑛$’th prime number is of the form $4𝑘 + 1$ for some integer $𝑘$. Hence produce a list of those positive
+integers $𝑛$ lying between 1 and 100 such that the $𝑛$’th prime is of such a form $4𝑘 + 1$. Verify that there are 47 such $n$.
+
