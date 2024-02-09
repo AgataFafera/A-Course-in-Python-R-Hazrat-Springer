@@ -57,3 +57,8 @@ integers $𝑛$ lying between 1 and 100 such that the $𝑛$’th prime is of su
 ### 4.4 Write a function to calculate the following:
 $p(n) = 1 + \frac{1}{\sqrt{1}} + \frac{1}{\sqrt{1}+\sqrt{2}} + \frac{1}{\sqrt{2}+\sqrt{3}} + \frac{1}{\sqrt{3}+\sqrt{4}} + ... \frac{1}{\sqrt{n-1}+\sqrt{n}} $
 
+### 4.9 For a number $𝑛$, a proper divisor $𝑘$ is a number which is not $𝑛$ and which divides $𝑛$. 
+For example, ${1, 3, 5}$ are all the proper divisors of 15. Consider the sum of all the proper divisors of a number. Now consider the sum of all the proper
+divisors of this new number and repeat the process. If one eventually obtains the number which one started with, then this number is called a social number.
+Write a program to show that 1264460 is a social number. Check whether 14316 is also a social number.
+
