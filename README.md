@@ -62,3 +62,7 @@ For example, {1, 3, 5} are all the proper divisors of 15. Consider the sum of al
 divisors of this new number and repeat the process. If one eventually obtains the number which one started with, then this number is called a social number.
 Write a program to show that 1264460 is a social number. Check whether 14316 is also a social number.
 
+### 4.11 We call a pair of prime numbers $𝑝$ and $𝑞$ friends 
+if $𝑝𝑞$ and $𝑞𝑝$ are both prime (by $𝑝𝑞$ we mean the juxtaposition of the numbers together). For example, the prime
+numbers 563 and 587 are friends as 563587 and 587563 are both primes. Write a program to produce all the prime friends for some suitable range of primes.
+
