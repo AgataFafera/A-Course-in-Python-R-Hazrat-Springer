@@ -55,5 +55,5 @@ Write a function which returns an answer of True if the $𝑛$’th prime number
 integers $𝑛$ lying between 1 and 100 such that the $𝑛$’th prime is of such a form $4𝑘 + 1$. Verify that there are 47 such $n$.
 
 ### 4.4 Write a function to calculate the following
-$p(n) = 1 + \frac{1}{\sqrt{1}} + \frac{1}{\sqrt{1}+\sqrt{2} + \frac{1}{\sqrt{2}+\sqrt{3} + \frac{1}{\sqrt{3}+\sqrt{4}} + ... + \frac{1}{\sqrt{n-1}+\sqrt{n}}$
+$p(n) = 1 + \frac{1}{\sqrt{1}} + \frac{1}{\sqrt{1}+\sqrt{2} + \frac{1}{\sqrt{2}+\sqrt{3} + \frac{1}{\sqrt{3}+\sqrt{4}} + ... $
 
