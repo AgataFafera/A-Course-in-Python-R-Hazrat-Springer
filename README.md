@@ -69,5 +69,5 @@ numbers 563 and 587 are friends as 563587 and 587563 are both primes. Write a pr
 ### 4.12 The number 𝜋 starts with
 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679 · · ·
 and continues with no pattern. Search the first 100, 000 digits of $𝜋$ and check if your birthday appears as a sequence of digits in $𝜋$. For example the date Thursday 8th of April of 1971 appears in the digits of $𝜋$:
-3.1415926535897932384626433832795028##**841971**##693 · · ·
+3.1415926535897932384626433832795028**841971**693 · · ·
 
