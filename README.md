@@ -48,5 +48,5 @@ There is only one positive integer $𝑛$ smaller than 100 such that $𝑛! + (�
 Observe that 485 + 584 = 1069 is a prime number. Find all numbers $𝑛$ between 1 and 1000 such that $𝑛$ plus its reverse is prime.
 
 ### 3.15 Compute:
-$\sqrt{1+\frac{1}{1^2}+\frac{1}{2^2}}+\sqrt{1+\frac{1}{2^2}+\frac{1}{3^2}}+...+\sqrt{1+\frac{1}{1^2022}+\frac{1}{2^2023}}$
+$\sqrt{1+\frac{1}{1^2}+\frac{1}{2^2}}+\sqrt{1+\frac{1}{2^2}+\frac{1}{3^2}}+...+\sqrt{1+\frac{1}{2022^2}+\frac{1}{2023^2}}$
 
