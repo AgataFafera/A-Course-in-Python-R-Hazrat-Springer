@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 my_sum = 0
 
 for i in range(1,2023):
@@ -11,8 +8,6 @@ for i in range(1,2023):
                
 print(my_sum)
 
-
-# In[ ]:
 
 
 
